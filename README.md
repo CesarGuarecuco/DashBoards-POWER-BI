@@ -14,7 +14,7 @@ Este repositorio contiene una colección de dashboards interactivos desarrollado
    - El dashboard correspondiente a este dataset permite explorar las tendencias de ventas en la industria de los videojuegos. Se pueden analizar las ventas por región, plataforma, género, y año de lanzamiento, así como identificar los juegos más vendidos a lo largo del tiempo.
 
 3. **Base de Datos de Empleados**:
-   - Este dashboard se enfoca en la gestión de recursos humanos, proporcionando un análisis de la base de datos de empleados. Se incluyen métricas sobre la distribución de la plantilla, tasa de rotación, análisis de desempeño, y segmentación por departamentos y cargos.
+   - Este dashboard se enfoca en la gestión de recursos humanos, proporcionando un análisis de la base de datos de empleados. Se incluyen métricas sobre la distribución de la plantilla, análisis de desempeño, y segmentación por departamentos y cargos.
 
 ## Objetivo
 
